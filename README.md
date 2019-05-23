@@ -6,3 +6,4 @@ A simple 3D scrolling game developed using the Unity engine. This is only an exa
 ## Updates  
 - 05/18/2019: published repository, only thing in game at the moment is one incomplete level.
 - 05/21/2019: organized asset files, and added skeleton level02.
+- 05/23/2019: updated player model, and dynamic movement.
